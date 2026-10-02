@@ -21,7 +21,7 @@ The square portfolio cover is generated presentation artwork. It is not used in 
 
 ## Review screenshots
 
-`previews/gallery-dark.jpg` shows the six-card gallery as rendered by GitHub. `previews/mobile-light.jpg` shows the complete repository page at a 390px phone width. Both were captured on 2 October 2026 for the profile README PR. These are browser screenshots, not mockups, and are not loaded by the profile README. Light-theme testing used GitHub's own theme stylesheet with a temporary page-only override; no account preferences were changed.
+`previews/gallery-dark.jpg` shows the six-card gallery as rendered by GitHub. `previews/mobile-light.jpg` shows the complete repository page at phone width. Both were captured on 2 October 2026 for the profile README PR. These are browser screenshots, not mockups, and are not loaded by the profile README. Light-theme testing used GitHub's own theme stylesheet with a temporary page-only override; no account preferences were changed.
 
 ## Updating the gallery
 
