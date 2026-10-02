@@ -1,6 +1,6 @@
 # Hi, I'm Akash Kumar Pathak
 
-Senior software engineer at **Grafana Labs**, based in **Stockholm, Sweden**. I build datasource plugins, frontend platforms, and applied AI side projects.
+Senior software engineer based in **Stockholm, Sweden**. I build web and mobile experiences with a focus on **frontend engineering and UI/UX**, and explore applied AI through side projects.
 
 [Portfolio](https://pathak.fyi/) · [LinkedIn](https://www.linkedin.com/in/akashmax/) · [GitHub](https://github.com/akkikumar72) · [X](https://x.com/akashpathak06) · [Email](mailto:akashpathak06@gmail.com)
 
